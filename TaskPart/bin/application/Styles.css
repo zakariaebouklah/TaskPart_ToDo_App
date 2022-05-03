@@ -1,0 +1,41 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.btn{
+	-fx-border-radius: 50%;
+}
+
+.btn:hover{
+	-fx-background-color: #EBC20C;
+}
+
+.btn:pressed{
+	-fx-background-color: linear-gradient(to bottom, #EC6D51, #cfcc1344);
+}
+
+.menu-button {
+    -fx-background-color: red;
+    }
+
+.split-menu-button:hover .label {
+    -fx-background-color: #EBC20C;
+    }
+
+.split-menu-button:hover .arrow-button {
+    -fx-background-color: #EBC20C;
+    }
+
+.split-menu-button:hover .arrow-button {
+    -fx-background-color: linear-gradient(to bottom, #EC6D51, #cfcc1344);
+    }
+
+.vbox {
+	-fx-background-color: linear-gradient(to bottom, #EC6D51, #cfcc1344);
+}
+
+.pane:hover {
+	-fx-background-color: linear-gradient(to bottom, #EC6D51, #cfcc1344);
+}
+
+
+
+
